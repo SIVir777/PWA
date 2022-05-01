@@ -1,0 +1,25 @@
+{
+    "name": "PWA Приложение3",
+    "short_name": "pwa",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "./logo-pwa-128x128.png",
+            "type": "image/png",
+            "sizes": "128x128"
+        },
+        {
+            "src": "./logo-pwa-144x144.png",
+            "type": "image/png",
+            "sizes": "144x144"
+        },
+        {
+            "src": "./logo-pwa-512x512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
